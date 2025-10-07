@@ -1,4 +1,5 @@
 # Fundamentos de Machine Learning con Python
+Material del curso "Fundamentos de Machine Learning con Python" del Centro de Capacitación y Estudios del Ministerio de Economía de la Nación.</br>
 
 [Slides](https://docs.google.com/presentation/d/1LCrF1LXeYnKYGfHrME-YgCSGwJs87XUfysiWmQGs_aQ/edit?usp=sharing)
 
